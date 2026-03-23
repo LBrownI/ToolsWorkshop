@@ -1,11 +1,4 @@
 # ToolsWorkshop
-¡Excelente iniciativa! Enseñar estas herramientas a tus compañeros de Ingeniería Civil Informática es un gran aporte. Como ya estás en la recta final de la carrera, sabes por experiencia propia que dominar VSCode y Git es fundamental, y a veces la curva de aprendizaje inicial de Git puede ser frustrante si no se enseña bien.
-
-Aquí te doy una dosis de realidad y franqueza: **1 hora y 20 minutos (80 minutos) es poquísimo tiempo para todo lo que tienes en mente.** El plan que propones es muy completo, pero si intentas enseñar `fork`, `branch`, y `merge` a grupos de 4 personas que recién instalan Git, el taller se va a convertir en una sesión de 40 minutos resolviendo conflictos de fusión (merge conflicts) y errores de "detached HEAD".
-
-Para que el taller sea un éxito y los estudiantes se vayan con una sensación de logro (y no de confusión), te sugiero el siguiente alcance y estructura.
-
----
 
 ### ⏱️ Propuesta de Alcance y Cronograma (80 Minutos)
 
@@ -56,4 +49,3 @@ Para que no pierdas ni un minuto de esos 80, envíales esta lista exacta con un 
 
 ---
 
-¿Te gustaría que diseñemos juntos el archivo exacto (el código de ejemplo) que usarán en el repositorio de prueba para la actividad práctica?
