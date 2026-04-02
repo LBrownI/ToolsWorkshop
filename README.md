@@ -11,7 +11,6 @@
    - `git add .`
    - `git commit -m "fix: corregir division por cero en promedios"`
    - `git push`
-5. **Pull Request**: Abre un PR en GitHub para revisión.
 
 ---
 *Organizado por: Lucas Brown & Dante Quezada* 
