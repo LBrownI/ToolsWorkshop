@@ -10,7 +10,7 @@
 4. **Commit y Push**: 
    - `git add .`
    - `git commit -m "fix: corregir division por cero en promedios"`
-   - `git push origin feature/tu-nombre`
+   - `git push`
 5. **Pull Request**: Abre un PR en GitHub para revisión.
 
 ---
