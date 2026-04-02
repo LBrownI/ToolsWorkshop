@@ -1,16 +1,15 @@
 def calcular_promedio(notas):
-    # ERROR DE LÓGICA: No verifica si la lista está vacía
     total = sum(notas)
     promedio = total / len(notas)
     return promedio
 
 def main():
-    print("--- Sistema de Promedios de Alumnos ---") # Basado en tu lab [User Summary]
+    print("--- Sistema de Promedios de Alumnos ---")
     
     alumnos = {
         "Dante": [2.0, 3.5, 5.1],
         "Lucas": [6.5, 7.0, 6.7],
-        "Estudiante_Nuevo": []  # Esto causará el error
+        "Estudiante_Nuevo": [] 
     }
 
     for nombre, notas in alumnos.items():
