@@ -4,7 +4,7 @@
 
 ## 🛠️ Instrucciones de la Parte Práctica
 
-1. **Clonar el repo**: Usa `git clone [<url>](https://github.com/LBrownI/ToolsWorkshop.git)` en tu terminal de VS Code.
+1. **Clonar el repo**: Usa `git clone https://github.com/LBrownI/ToolsWorkshop.git` en tu terminal de VS Code.
 2. **Debuguear**: Abre `app.py`, pon un *breakpoint* en la línea 4 y presiona `F5`.
 3. **Corregir**: Arregla la función para que no falle con listas vacías.
 4. **Commit y Push**: 
