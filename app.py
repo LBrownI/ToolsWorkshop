@@ -5,7 +5,7 @@ def calcular_promedio(notas):
     return promedio
 
 def main():
-    print("--- Sistema de Gestión de Alumnos LIRIA ---") # Basado en tu lab [User Summary]
+    print("--- Sistema de Promedios de Alumnos ---") # Basado en tu lab [User Summary]
     
     alumnos = {
         "Dante": [2.0, 3.5, 5.1],
