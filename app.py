@@ -9,7 +9,7 @@ def main():
     alumnos = {
         "Dante": [2.0, 3.5, 5.1],
         "Lucas": [6.5, 7.0, 6.7],
-        "Estudiante_Nuevo": [] 
+        "Estudiante_Nuevo": [0] 
     }
 
     for nombre, notas in alumnos.items():
